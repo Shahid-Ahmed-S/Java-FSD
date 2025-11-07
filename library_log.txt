@@ -1,0 +1,6 @@
+Added book: Anatomy
+Added book: Human Anatomy
+New member: Shahid Ahmed
+Added book: Humna Anatomy
+Issued book: Humna Anatomy to Shahid Ahmed
+Returned: Humna Anatomy by Shahid Ahmed | Late fee: ₹2.0
