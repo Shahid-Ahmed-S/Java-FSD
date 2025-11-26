@@ -1,5 +1,0 @@
-INFO: System started
-ERROR: Invalid credentials entered
-WARNING: Disk space running low
-INFO: Background job started
-ERROR: File not found on given path

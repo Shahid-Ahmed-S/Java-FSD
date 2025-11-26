@@ -1,8 +1,0 @@
-======== LOG ANALYZER RESULT ========
-Total Execution Time: 9 ms
--------------------------------------
-Keyword Counts:
-fail → 1
-warning → 2
-error → 4
-=====================================

@@ -1,5 +1,0 @@
-ERROR: Failed to connect to database
-WARNING: Low memory on server
-INFO: User login successful
-ERROR: NullPointerException occurred at line 54
-INFO: Task completed successfully
