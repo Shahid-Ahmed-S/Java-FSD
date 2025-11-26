@@ -1,0 +1,5 @@
+INFO User login
+ERROR Database connection failed
+DEBUG Cache initialized
+WARNING High CPU usage
+INFO User logout

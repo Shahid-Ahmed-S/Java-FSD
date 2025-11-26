@@ -1,0 +1,5 @@
+INFO System started
+DEBUG Loading modules
+WARNING Low memory
+ERROR Module X failed
+INFO Process completed

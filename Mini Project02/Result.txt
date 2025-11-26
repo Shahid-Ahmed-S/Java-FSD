@@ -1,0 +1,7 @@
+===== FINAL KEYWORD COUNT =====
+ERROR -> 2
+INFO -> 4
+WARNING -> 2
+DEBUG -> 2
+
+Total Execution Time: 24 ms
